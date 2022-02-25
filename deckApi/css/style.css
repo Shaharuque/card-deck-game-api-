@@ -1,0 +1,34 @@
+.section-background{
+    background-color: lightseagreen;
+}
+.search-button{
+    background-color:crimson ;
+    color: white;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+}
+.text-styleing{
+    color: crimson;
+    
+}
+
+.custom-color:hover{
+    background-color: rgb(31, 94, 90)!important;
+    cursor: pointer;
+}
+.custom-button{
+    background-color:crimson ;
+    color: white;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+}
+.customBorder:hover{
+    border:3px solid darkslateblue;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.cardTextStyle:hover{
+    color: white;
+    cursor: pointer;
+    
+}
